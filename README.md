@@ -7,7 +7,7 @@ This project was developed as part of a university course on full-stack developm
 This is a full-stack, multiuser movie review system built with **FastAPI** (backend) and **Next.js** (frontend).  
 It allows multiple users to register, review, and interact with movies, while admins can moderate content and manage users.  
 
-The system **integrates the TMDb API** to fetch movie data, providing real-world, up-to-date movie information. Data is stored using **JSON files**, avoiding traditional databases.
+The system uses a **Kaggle movie dataset** for initial movie data and integrates the **TMDb API** to fetch up-to-date movie information. Data is stored in JSON/CSV files for persistent data storage.
 
 ---
 
