@@ -47,7 +47,7 @@ The system uses a **Kaggle movie dataset** for initial movie data and integrates
 ## Tech Stack
 
 - **Backend:** FastAPI, Python, Pytest
-- **Frontend:** Next.js, React
+- **Frontend:** Next.js
 - **Data Storage:** JSON files
 - **External API:** TMDb API
 - **DevOps:** GitHub Actions, Docker
