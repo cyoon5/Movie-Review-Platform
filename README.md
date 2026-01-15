@@ -51,8 +51,3 @@ The system **integrates the TMDb API** to fetch movie data, providing real-world
 - **Data Storage:** JSON files
 - **External API:** TMDb API
 - **DevOps:** GitHub Actions, Docker
-
-1. Clone the repository:  
-   ```bash
-   git clone <your-repo-link>
-   cd <repo-folder>
